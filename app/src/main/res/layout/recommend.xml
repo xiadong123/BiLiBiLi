@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/recommend_layout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/synthesize"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="综合" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_marginTop="17dp"
+        android:background="#CCCCCC"
+        android:layout_width="1dp"
+        android:layout_height="10dp">
+
+    </View>
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/dynamic_condition"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="动态"/>
+
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_watching"/>
+
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/recommend_vp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </android.support.v4.view.ViewPager>
+
+
+</RelativeLayout>

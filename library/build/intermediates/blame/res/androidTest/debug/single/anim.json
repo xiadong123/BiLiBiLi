@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\bawei\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\堕仙\\.android\\build-cache\\0d18b6a613f79d50514e6e9667852714a191339e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\daima\\BiLiBiLi\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f1ea49e91453575f6eed5beaee930683d7b7f07d\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
